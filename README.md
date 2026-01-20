@@ -16,7 +16,7 @@ Projekt bol vytvorený výlučne na vzdelávacie účely.
 - **Nástroje:** MiniSat, Make, GCC
 
 ## Hodnotenie
-- Získané body: **8 / 8** (vrátane bonusu)
+- Získané body: **8 / 8**
 
 ## Spustenie
 Projekt využíva `make` na preklad a skript `run.sh` na overenie riešenia pomocou SAT solvera.
